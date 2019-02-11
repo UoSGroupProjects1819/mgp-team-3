@@ -3,11 +3,10 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
-	"Modules": [
+	"Plugins": [
 		{
-			"Name": "MineCart",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"Name": "Paper2D",
+			"Enabled": true
 		}
 	]
 }
