@@ -1,8 +1,10 @@
 # Level 4 and 5 Team 3
 
-* **Project:** MineCart (AKA End Of The Line)
-* **Lead Programmer:** Alpeche Pancha
-* **Lead Designer:** Matthew Fisher
+![End Of The Line Thumbnail](MineCart/Assets/MineCart_Thumbnail.png?raw=true)
+
+* **Project:** End Of The Line (AKA MineCart)
+* **Programmer:** Alpeche Pancha
+* **Designer:** Matthew Fisher
 * **Designer:** Andrei Dumbravescu
 * **Project Managers:** Matthew Fisher and Alpeche Pancha
 
@@ -10,11 +12,12 @@
 
 ### Controls
 
-* 1: Select Track
-* 2: Select Track
-* 3: Select Track
-* 4: Select Track
-* Left mouse click: Place track
+* 1: Select Flat-track
+* 2: Select Ascending-track
+* 3: Select Descending-track
+* 4: Select High-track
+* Left mouse click: Place selected track (mouse must be over an existing track)
+* L: Easter egg!
 
 ### Gameplay
 
